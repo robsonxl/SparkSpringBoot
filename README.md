@@ -32,7 +32,7 @@ Quantidade de requisições  de um determinado httpStatusCode agrupado por por d
 
     # http://localhost:8080/httpStatusCodeDate?httpStatusCode=200
     
-Top x requisições  de um determinado httpStatusCode agrupados por URL 
+Top n requisições  de um determinado httpStatusCode agrupados por URL 
 
     # http://localhost:8080/topUrl?httpStatusCode=200&topNumber=50
 
