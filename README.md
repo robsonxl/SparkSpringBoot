@@ -12,9 +12,9 @@ SparkSpringBoot
     # ftp://ita.ee.lbl.gov/traces/NASA_access_log_Aug95.gz
   
 
-1-)Para executar a aplicão, é necessário ter o docker instaladona máquina.
+ Para executar a aplicão, é necessário ter o docker instaladona máquina.
 
-2-)Execute o comando abaixo para subir a aplicação
+ Execute o comando abaixo para subir a aplicação
 
     # sudo docker run --name kennedy-space -it -p 8080:8080 robsonxlima/nasa-kennedy
     
