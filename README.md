@@ -12,7 +12,7 @@ SparkSpringBoot
     # ftp://ita.ee.lbl.gov/traces/NASA_access_log_Aug95.gz
   
 
- Para executar a aplicão, é necessário ter o docker instaladona máquina.
+ Para executar a aplicão, é necessário ter o docker instalado na máquina.
 
  Execute o comando abaixo para subir a aplicação
 
