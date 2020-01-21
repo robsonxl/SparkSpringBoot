@@ -35,4 +35,4 @@ Total  de bytes retornados agupados por hostname
 
 ### Contador de Palavaras  (executar coleção no postman)
     
-    # curl --location --request POST 'http://localhost:8000/wordcountwords=pera|uva|melao|uva|banana|laranja|abacaxi|abacaxi'
+    # https://www.getpostman.com/collections/ab6b99d9b0675029b8f3
