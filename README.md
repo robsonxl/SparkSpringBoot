@@ -3,9 +3,14 @@ SparkSpringBoot
 
 #### Sobre o Conjunto de Dados: Conjunto de dados que possui  todas as requisições HTTP  do mes de agosto do ano de 1995 para o servidor da NASA Kennedy Space Center WWW na Flórida  para um período específico.
 
+#### Fonte: 
+    
+    # https://github.com/robsonxl/SparkSpringBoot/blob/master/NASA-HTTP%20-%20Two%20Months%20of%20HTTP%20Logs%20from%20the%20KSC-NASA%20WWW%20Server.html
+    
 #### Link Arquivo de dados: 
 
     # ftp://ita.ee.lbl.gov/traces/NASA_access_log_Aug95.gz
+  
 
 1-)Para executar a aplicão, é necessário ter o docker instaladona máquina.
 
